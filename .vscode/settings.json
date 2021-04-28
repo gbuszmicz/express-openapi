@@ -2,7 +2,7 @@
     "eslint.options": {
         "configFile": ".eslintrc.json"
     },
-    "estlin.validate": ["javascript"],
+    "eslint.validate": ["javascript"],
     "editor.codeActionOnSave": {
         "source.fixAll.eslint": true
     },
